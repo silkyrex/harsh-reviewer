@@ -1,8 +1,8 @@
 # Harsh Reviewer
 
-A simple Cursor subagent prompt for strict code reviews.
+A Cursor subagent prompt for strict code reviews.
 
-This repo currently has two core docs:
+Two files:
 
 - `harsh-reviewer.md` - the harsh reviewer subagent definition.
 - `pre-flight.md` - a short checklist to run before coding.
